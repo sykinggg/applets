@@ -1,0 +1,4 @@
+<!-- me.wxml -->
+<view class="container log-list">
+    me
+</view>

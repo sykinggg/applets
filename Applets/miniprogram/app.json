@@ -1,0 +1,35 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/logs/logs",
+        "pages/text/text",
+        "pages/me/me"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTitleText": "WeChat",
+        "navigationBarTextStyle": "black"
+    },
+    "tabBar": {
+        "list": [
+            {
+                "pagePath": "pages/index/index",
+                "text": "微信"
+            },
+            {
+                "pagePath": "pages/logs/logs",
+                "text": "通讯录"
+            },
+            {
+                "pagePath": "pages/text/text",
+                "text": "发现"
+            },
+            {
+                "pagePath": "pages/me/me",
+                "text": "我"
+            }
+        ]
+    },
+    "sitemapLocation": "sitemap.json"
+}
